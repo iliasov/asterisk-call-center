@@ -8,5 +8,5 @@ This package contein : Asterisk 1.8 , Asterisk GUI , a complete installation scr
 
 All what you have to do is to execute the installation script.
 
-# ./install.sh
+> ./install.sh
 
